@@ -1,2 +1,2 @@
-BOTNAME = "usernameofbot"
-TOKEN = "TOKEN"
+BOTNAME = "wastesbot"
+TOKEN = "1902600829:AAHQXiZmMAUZe8m1GGfpAQ8xO_DNkQKGi_4"
